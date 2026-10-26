@@ -1,0 +1,9 @@
+{
+  "projectId": "watson-fs",
+  "appId": "1:1076170400200:web:e1b617bd904204176b60fd",
+  "databaseURL": "https://watson-fs-default-rtdb.firebaseio.com",
+  "storageBucket": "watson-fs.firebasestorage.app",
+  "authDomain": "watson-fs.firebaseapp.com",
+  "messagingSenderId": "1076170400200",
+  "measurementId": "G-0953LQH06K"
+}

@@ -1,0 +1,35 @@
+{
+  "ga4": {
+    "propertyId": "538229160"
+  },
+  "events": {
+    "screenViews": {
+      "auto": true,
+      "screens": ["home", "free-tv", "iptv", "tv", "guide", "mosaic", "features", "help"]
+    },
+    "custom": [
+      { "name": "app_open", "label": "App Open" },
+      { "name": "landing_view", "label": "Landing View" },
+      { "name": "play_start", "label": "Play Start" },
+      { "name": "first_frame", "label": "First Frame" },
+      { "name": "channel_tuned", "label": "Channel Tuned" },
+      { "name": "tour_start", "label": "Tour Start" },
+      { "name": "tour_complete", "label": "Tour Complete" },
+      { "name": "share", "label": "Share" },
+      { "name": "startup_timing", "label": "Startup Timing" },
+      { "name": "web_vital", "label": "Web Vital" }
+    ]
+  },
+  "firestore": {
+    "stats": [
+      {
+        "id": "top-picks",
+        "label": "Top Picks",
+        "collection": "tve-upvotes",
+        "orderBy": "count",
+        "direction": "desc",
+        "limit": 20
+      }
+    ]
+  }
+}

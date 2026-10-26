@@ -1,0 +1,52 @@
+{
+  "key": "tv-explorer",
+  "name": "TV Explorer",
+  "partner": "watson",
+  "slots": {
+    "hero-image": {
+      "media": "media/hero.jpg",
+      "alt": "TV Explorer",
+      "schedule": { "type": "evergreen" }
+    },
+    "app-logo": {
+      "content": "TV Explorer",
+      "schedule": { "type": "evergreen" }
+    },
+    "chrome-icon": {
+      "media": "media/watson-w.svg",
+      "schedule": { "type": "evergreen" }
+    },
+    "loading-splash": {
+      "component": "engine-watson-logo",
+      "link": "https://watsonengine.io",
+      "schedule": { "type": "evergreen" }
+    },
+    "intro-credit": {
+      "component": "engine-watson-logo",
+      "link": "https://watsonengine.io",
+      "schedule": { "type": "evergreen" }
+    },
+    "footer-logo": {
+      "component": "engine-watson-logo",
+      "link": "https://watsonengine.io",
+      "schedule": { "type": "evergreen" }
+    },
+    "footer-text": {
+      "link": "https://watsonengine.io",
+      "schedule": { "type": "evergreen" }
+    },
+    "signin-logo": {
+      "component": "engine-watson-logo",
+      "schedule": { "type": "evergreen" }
+    },
+    "social-preview": {
+      "media": "media/meta-image.jpg",
+      "alt": "TV Explorer — 10,000 Free TV Channels",
+      "schedule": { "type": "evergreen" }
+    },
+    "palette": {
+      "paletteFile": "media/palette-spectrum.css",
+      "schedule": { "type": "evergreen" }
+    }
+  }
+}

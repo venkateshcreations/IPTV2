@@ -1,0 +1,12 @@
+{
+  "routes": [
+    { "name": "home", "path": "/" },
+    { "name": "free-tv", "path": "/free-tv" },
+    { "name": "iptv", "path": "/iptv" },
+    { "name": "guide", "path": "/guide" },
+    { "name": "mosaic", "path": "/mosaic" },
+    { "name": "features", "path": "/features" },
+    { "name": "help", "path": "/help/:page?" }
+  ],
+  "default": "home"
+}

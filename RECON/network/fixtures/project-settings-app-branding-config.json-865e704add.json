@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "activeBrand": "tv-explorer",
+  "slots": [
+    "hero-image",
+    "app-logo",
+    "chrome-icon",
+    "loading-splash",
+    "intro-credit",
+    "footer-logo",
+    "footer-text",
+    "signin-logo",
+    "social-preview",
+    "palette"
+  ]
+}

@@ -1,0 +1,753 @@
+{
+  "label": "original",
+  "url": "https://tvexplorer.live/",
+  "capturedAt": "2026-10-26T06:17:40.414Z",
+  "console": {
+    "errors": [
+      {
+        "type": "error",
+        "text": "[2026-10-26T06:17:14.021Z]  @firebase/firestore: Firestore (12.13.0): FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)",
+        "viewport": 1440
+      },
+      {
+        "type": "error",
+        "text": "[2026-10-26T06:17:14.672Z]  @firebase/firestore: Firestore (12.13.0): FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)",
+        "viewport": 1440
+      },
+      {
+        "type": "error",
+        "text": "[2026-10-26T06:17:15.892Z]  @firebase/firestore: Firestore (12.13.0): FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)",
+        "viewport": 1440
+      },
+      {
+        "type": "error",
+        "text": "[2026-10-26T06:17:21.110Z]  @firebase/firestore: Firestore (12.13.0): FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)",
+        "viewport": 768
+      },
+      {
+        "type": "error",
+        "text": "[2026-10-26T06:17:22.082Z]  @firebase/firestore: Firestore (12.13.0): FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)",
+        "viewport": 768
+      },
+      {
+        "type": "error",
+        "text": "[2026-10-26T06:17:22.965Z]  @firebase/firestore: Firestore (12.13.0): FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)",
+        "viewport": 768
+      },
+      {
+        "type": "error",
+        "text": "[2026-10-26T06:17:25.021Z]  @firebase/firestore: Firestore (12.13.0): FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)",
+        "viewport": 768
+      },
+      {
+        "type": "error",
+        "text": "[2026-10-26T06:17:26.681Z]  @firebase/firestore: Firestore (12.13.0): FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)",
+        "viewport": 768
+      },
+      {
+        "type": "error",
+        "text": "[2026-10-26T06:17:33.116Z]  @firebase/firestore: Firestore (12.13.0): FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)",
+        "viewport": 390
+      },
+      {
+        "type": "error",
+        "text": "[2026-10-26T06:17:34.019Z]  @firebase/firestore: Firestore (12.13.0): FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)",
+        "viewport": 390
+      },
+      {
+        "type": "error",
+        "text": "[2026-10-26T06:17:34.872Z]  @firebase/firestore: Firestore (12.13.0): FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)",
+        "viewport": 390
+      },
+      {
+        "type": "error",
+        "text": "[2026-10-26T06:17:36.843Z]  @firebase/firestore: Firestore (12.13.0): FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)",
+        "viewport": 390
+      },
+      {
+        "type": "error",
+        "text": "[2026-10-26T06:17:38.891Z]  @firebase/firestore: Firestore (12.13.0): FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)",
+        "viewport": 390
+      }
+    ],
+    "warnings": [
+      {
+        "type": "warning",
+        "text": "Branding: Text slot missing \"content\" field.",
+        "viewport": 1440
+      },
+      {
+        "type": "warning",
+        "text": "Branding: Text slot missing \"content\" field.",
+        "viewport": 768
+      },
+      {
+        "type": "warning",
+        "text": "Branding: Text slot missing \"content\" field.",
+        "viewport": 390
+      }
+    ],
+    "pageErrors": [
+      {
+        "message": "Error: FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)\n    at __PRIVATE__fail (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193727)\n    at __PRIVATE_hardAssert (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193816)\n    at https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:318876\n    at Y.<anonymous> (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:315688)\n    at Va (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:160061)\n    at D (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:159789)\n    at Mi.qa (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:191351)\n    at Lb (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167392)\n    at Wt.Y (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:168391)\n    at Wt.ba (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167520)",
+        "viewport": 1440
+      },
+      {
+        "message": "Error: FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)\n    at __PRIVATE__fail (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193727)\n    at __PRIVATE_hardAssert (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193816)\n    at https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:318876\n    at Y.<anonymous> (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:315688)\n    at Va (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:160061)\n    at D (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:159789)\n    at Mi.qa (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:191351)\n    at Lb (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167392)\n    at Wt.Y (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:168391)\n    at Wt.ba (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167520)",
+        "viewport": 1440
+      },
+      {
+        "message": "Error: FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)\n    at __PRIVATE__fail (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193727)\n    at __PRIVATE_hardAssert (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193816)\n    at https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:318876\n    at Y.<anonymous> (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:315688)\n    at Va (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:160061)\n    at D (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:159789)\n    at Mi.qa (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:191351)\n    at Lb (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167392)\n    at Wt.Y (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:168391)\n    at Wt.ba (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167520)",
+        "viewport": 1440
+      },
+      {
+        "message": "Error: FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)\n    at __PRIVATE__fail (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193727)\n    at __PRIVATE_hardAssert (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193816)\n    at https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:318876\n    at Y.<anonymous> (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:315688)\n    at Va (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:160061)\n    at D (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:159789)\n    at Mi.qa (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:191351)\n    at Lb (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167392)\n    at Wt.Y (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:168391)\n    at Wt.ba (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167520)",
+        "viewport": 768
+      },
+      {
+        "message": "Error: FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)\n    at __PRIVATE__fail (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193727)\n    at __PRIVATE_hardAssert (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193816)\n    at https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:318876\n    at Y.<anonymous> (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:315688)\n    at Va (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:160061)\n    at D (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:159789)\n    at Mi.qa (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:191351)\n    at Lb (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167392)\n    at Wt.Y (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:168391)\n    at Wt.ba (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167520)",
+        "viewport": 768
+      },
+      {
+        "message": "Error: FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)\n    at __PRIVATE__fail (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193727)\n    at __PRIVATE_hardAssert (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193816)\n    at https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:318876\n    at Y.<anonymous> (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:315688)\n    at Va (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:160061)\n    at D (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:159789)\n    at Mi.qa (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:191351)\n    at Lb (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167392)\n    at Wt.Y (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:168391)\n    at Wt.ba (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167520)",
+        "viewport": 768
+      },
+      {
+        "message": "Error: FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)\n    at __PRIVATE__fail (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193727)\n    at __PRIVATE_hardAssert (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193816)\n    at https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:318876\n    at Y.<anonymous> (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:315688)\n    at Va (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:160061)\n    at D (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:159789)\n    at Mi.qa (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:191351)\n    at Lb (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167392)\n    at Wt.Y (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:168391)\n    at Wt.ba (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167520)",
+        "viewport": 768
+      },
+      {
+        "message": "Error: FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)\n    at __PRIVATE__fail (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193727)\n    at __PRIVATE_hardAssert (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193816)\n    at https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:318876\n    at Y.<anonymous> (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:315688)\n    at Va (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:160061)\n    at D (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:159789)\n    at Mi.qa (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:191351)\n    at Lb (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167392)\n    at Wt.Y (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:168391)\n    at Wt.ba (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167520)",
+        "viewport": 768
+      },
+      {
+        "message": "Error: FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)\n    at __PRIVATE__fail (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193727)\n    at __PRIVATE_hardAssert (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193816)\n    at https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:318876\n    at Y.<anonymous> (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:315688)\n    at Va (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:160061)\n    at D (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:159789)\n    at Mi.qa (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:191351)\n    at Lb (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167392)\n    at Wt.Y (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:168391)\n    at Wt.ba (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167520)",
+        "viewport": 390
+      },
+      {
+        "message": "Error: FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)\n    at __PRIVATE__fail (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193727)\n    at __PRIVATE_hardAssert (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193816)\n    at https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:318876\n    at Y.<anonymous> (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:315688)\n    at Va (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:160061)\n    at D (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:159789)\n    at Mi.qa (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:191351)\n    at Lb (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167392)\n    at Wt.Y (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:168391)\n    at Wt.ba (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167520)",
+        "viewport": 390
+      },
+      {
+        "message": "Error: FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)\n    at __PRIVATE__fail (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193727)\n    at __PRIVATE_hardAssert (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193816)\n    at https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:318876\n    at Y.<anonymous> (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:315688)\n    at Va (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:160061)\n    at D (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:159789)\n    at Mi.qa (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:191351)\n    at Lb (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167392)\n    at Wt.Y (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:168391)\n    at Wt.ba (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167520)",
+        "viewport": 390
+      },
+      {
+        "message": "Error: FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)\n    at __PRIVATE__fail (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193727)\n    at __PRIVATE_hardAssert (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193816)\n    at https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:318876\n    at Y.<anonymous> (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:315688)\n    at Va (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:160061)\n    at D (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:159789)\n    at Mi.qa (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:191351)\n    at Lb (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167392)\n    at Wt.Y (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:168391)\n    at Wt.ba (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167520)",
+        "viewport": 390
+      },
+      {
+        "message": "Error: FIRESTORE (12.13.0) INTERNAL ASSERTION FAILED: Unexpected state (ID: 3fdd)\n    at __PRIVATE__fail (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193727)\n    at __PRIVATE_hardAssert (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:193816)\n    at https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:318876\n    at Y.<anonymous> (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:315688)\n    at Va (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:160061)\n    at D (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:159789)\n    at Mi.qa (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:191351)\n    at Lb (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167392)\n    at Wt.Y (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:168391)\n    at Wt.ba (https://tvexplorer.live/assets/vendor-B5yBwPfs.js:1:167520)",
+        "viewport": 390
+      }
+    ]
+  },
+  "navigation": [
+    {
+      "viewport": 1440,
+      "recovered": false,
+      "url": "https://tvexplorer.live/",
+      "readyState": "interactive"
+    },
+    {
+      "viewport": 768,
+      "recovered": false,
+      "url": "https://tvexplorer.live/",
+      "readyState": "interactive"
+    },
+    {
+      "viewport": 390,
+      "recovered": false,
+      "url": "https://tvexplorer.live/",
+      "readyState": "interactive"
+    }
+  ],
+  "captures": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "screenshot": "screenshots\\original-1440.png",
+      "signals": {
+        "href": "https://tvexplorer.live/",
+        "title": "TV Explorer",
+        "lang": "en-US",
+        "bodyTextChars": 0,
+        "scrollHeight": 900,
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "h1": [],
+        "headings": [],
+        "metaDescription": "Watch over 10,000 free live TV channels from around the world, right in your browser. No signup, no apps, no tracking.",
+        "counts": {
+          "links": 0,
+          "images": 0,
+          "video": 0,
+          "canvas": 0,
+          "sections": 0,
+          "forms": 0,
+          "buttons": 0,
+          "inputs": 0,
+          "interactive": 0,
+          "scripts": 5,
+          "stylesheets": 0
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [
+          "https://tvexplorer.live/assets/main-BxV3gFc7.js",
+          "https://www.gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js",
+          "https://www.gstatic.com/eureka/clank/156/cast_sender.js",
+          "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-0953LQH06K",
+          "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1"
+        ],
+        "stylesheets": [],
+        "sections": [],
+        "cssVariables": [],
+        "rootVariables": [],
+        "palette": {
+          "body": {
+            "backgroundColor": "rgb(0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "borderColor": "rgb(0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "backgroundImage": ""
+          },
+          "header": null,
+          "nav": null,
+          "main": null,
+          "footer": null,
+          "buttons": []
+        },
+        "motion": {
+          "htmlScrollBehavior": "auto",
+          "scrollSnapRules": 0,
+          "smoothScrollRules": 0,
+          "stickyOrFixedCount": 0
+        },
+        "fonts": [
+          "Inter",
+          "Kurri",
+          "Kurri",
+          "Kurri",
+          "Kurri",
+          "Kurri",
+          "Courier",
+          "Courier",
+          "Courier",
+          "Courier",
+          "Autography",
+          "TwemojiCountryFlags"
+        ],
+        "fontFaces": [],
+        "resources": {
+          "images": [
+            "https://i.imgur.com/300c1ZH.png",
+            "https://i.imgur.com/GET9Qut.png",
+            "https://i.imgur.com/tTCuczU.png",
+            "https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540",
+            "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/%26TV_Transparent_c5cc189b-8493-48d2-b07c-3fa4f92d754a.png",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%26flix_2025.svg/960px-%26flix_2025.svg.png",
+            "https://i.imgur.com/nSSUHcg.png",
+            "https://files.catbox.moe/6rj9aw.jpg",
+            "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",
+            "https://i.imgur.com/slSUDNX.png",
+            "https://dtil.tmsimg.com/assets/s142495_ld_h15_aa.png?lock=720x540",
+            "https://i.imgur.com/bSXKdK5.png",
+            "https://i.imgur.com/SZtJfOG.png",
+            "https://i.imgur.com/2xglh33.png",
+            "https://i.imgur.com/dWA9y2J.png",
+            "https://i.imgur.com/GzI3RC4.png",
+            "https://i.imgur.com/mBYxWOg.png",
+            "https://i.imgur.com/Ymk6j5o.png",
+            "https://i.imgur.com/kVREx1Q.png",
+            "https://i.imgur.com/VSTgXsh.png",
+            "https://i.imgur.com/KvMuTzN.png",
+            "https://i.imgur.com/8WJUbSD.png",
+            "https://i.imgur.com/m0SuwMU.png",
+            "https://i.imgur.com/Zfe2f5j.png",
+            "https://i.imgur.com/FvEp1S2.png",
+            "https://i.imgur.com/utI1tJV.png",
+            "https://i.imgur.com/R6D228s.png",
+            "https://i.imgur.com/csBNi2L.png",
+            "https://i.imgur.com/CZ8LKmA.png",
+            "https://i.imgur.com/04fCzHl.png",
+            "https://i.imgur.com/XfkbTrU.png",
+            "https://i.imgur.com/kj21hwd.png",
+            "https://tvexplorer.live/project/branding/brands/tv-explorer/media/watson-w.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/chevron-down.svg",
+            "https://i.imgur.com/nGSsUd4.png",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/expand.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/heart.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/chevron-up.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/plus.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/minus.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/volume-high.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/trash.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/list.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/gear.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/circle-question.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/share-nodes.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/newspaper.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/football-ball.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/music.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/film.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/video.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/child.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/star.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/tree.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/globe.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/yin-yang.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/landmark.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/graduation-cap.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/palette.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/cart-shopping.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/house.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/briefcase.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/bolt.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/face-laugh.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/masks-theater.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/user-secret.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/eye.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/ghost.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/plane.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/spa.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/language.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/circle-xmark.svg",
+            "https://image.xumo.com/v1/channels/channel/99951482/300x300.webp?type=color_onBlack",
+            "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B33A4C8B-E854-4A23-94CC-421057485C7D/3-1x1.png",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/arrow-right.svg",
+            "https://i.imgur.com/KRakHAq.png",
+            "https://i.imgur.com/Q4A6ci4.png",
+            "https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png",
+            "https://static.tildacdn.biz/tild6366-6336-4230-b562-656138633562/___TV-___188-76.webp",
+            "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
+            "https://i.imgur.com/smQKa2G.png",
+            "https://i.imgur.com/LOY0rtp.png",
+            "https://i.imgur.com/FlG7npq.png",
+            "https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg"
+          ],
+          "fonts": [
+            "https://tvexplorer.live/watson/engine/fonts/Inter/Inter.var.woff2",
+            "https://tvexplorer.live/watson/engine/fonts/Kurri/Kurri-Thin.ttf",
+            "https://tvexplorer.live/watson/engine/fonts/Kurri/Kurri-Regular.ttf",
+            "https://tvexplorer.live/watson/engine/fonts/Kurri/Kurri-Medium.ttf",
+            "https://tvexplorer.live/watson/engine/fonts/Kurri/Kurri-Bold.ttf",
+            "https://tvexplorer.live/watson/engine/fonts/Kurri/Kurri-Black.ttf",
+            "https://tvexplorer.live/watson/engine/fonts/Courier/CourierStd.otf",
+            "https://tvexplorer.live/watson/engine/fonts/Courier/CourierStd-Oblique.otf",
+            "https://tvexplorer.live/watson/engine/fonts/Courier/CourierStd-Bold.otf",
+            "https://tvexplorer.live/watson/engine/fonts/Courier/CourierStd-BoldOblique.otf",
+            "https://tvexplorer.live/watson/engine/fonts/Autography/Autography.otf",
+            "https://tvexplorer.live/project/fonts/TwemojiCountryFlags/TwemojiCountryFlags.woff2"
+          ],
+          "media": []
+        },
+        "images": [],
+        "canvases": []
+      }
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 900
+      },
+      "screenshot": "screenshots\\original-768.png",
+      "signals": {
+        "href": "https://tvexplorer.live/",
+        "title": "TV Explorer",
+        "lang": "en-US",
+        "bodyTextChars": 0,
+        "scrollHeight": 900,
+        "viewport": {
+          "width": 768,
+          "height": 900
+        },
+        "h1": [],
+        "headings": [],
+        "metaDescription": "Watch over 10,000 free live TV channels from around the world, right in your browser. No signup, no apps, no tracking.",
+        "counts": {
+          "links": 0,
+          "images": 0,
+          "video": 0,
+          "canvas": 0,
+          "sections": 0,
+          "forms": 0,
+          "buttons": 0,
+          "inputs": 0,
+          "interactive": 0,
+          "scripts": 5,
+          "stylesheets": 0
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [
+          "https://tvexplorer.live/assets/main-BxV3gFc7.js",
+          "https://www.gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js",
+          "https://www.gstatic.com/eureka/clank/156/cast_sender.js",
+          "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-0953LQH06K",
+          "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1"
+        ],
+        "stylesheets": [],
+        "sections": [],
+        "cssVariables": [],
+        "rootVariables": [],
+        "palette": {
+          "body": {
+            "backgroundColor": "rgb(0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "borderColor": "rgb(0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "backgroundImage": ""
+          },
+          "header": null,
+          "nav": null,
+          "main": null,
+          "footer": null,
+          "buttons": []
+        },
+        "motion": {
+          "htmlScrollBehavior": "auto",
+          "scrollSnapRules": 0,
+          "smoothScrollRules": 0,
+          "stickyOrFixedCount": 0
+        },
+        "fonts": [
+          "Inter",
+          "Kurri",
+          "Kurri",
+          "Kurri",
+          "Kurri",
+          "Kurri",
+          "Courier",
+          "Courier",
+          "Courier",
+          "Courier",
+          "Autography",
+          "TwemojiCountryFlags"
+        ],
+        "fontFaces": [],
+        "resources": {
+          "images": [
+            "https://i.imgur.com/tTCuczU.png",
+            "https://i.imgur.com/300c1ZH.png",
+            "https://i.imgur.com/GET9Qut.png",
+            "https://i.imgur.com/nSSUHcg.png",
+            "https://files.catbox.moe/6rj9aw.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%26flix_2025.svg/960px-%26flix_2025.svg.png",
+            "https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540",
+            "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/%26TV_Transparent_c5cc189b-8493-48d2-b07c-3fa4f92d754a.png",
+            "https://i.imgur.com/2xglh33.png",
+            "https://i.imgur.com/slSUDNX.png",
+            "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",
+            "https://dtil.tmsimg.com/assets/s142495_ld_h15_aa.png?lock=720x540",
+            "https://i.imgur.com/SZtJfOG.png",
+            "https://i.imgur.com/bSXKdK5.png",
+            "https://i.imgur.com/dWA9y2J.png",
+            "https://i.imgur.com/GzI3RC4.png",
+            "https://i.imgur.com/kVREx1Q.png",
+            "https://i.imgur.com/mBYxWOg.png",
+            "https://i.imgur.com/VSTgXsh.png",
+            "https://i.imgur.com/Ymk6j5o.png",
+            "https://i.imgur.com/KvMuTzN.png",
+            "https://i.imgur.com/8WJUbSD.png",
+            "https://i.imgur.com/m0SuwMU.png",
+            "https://i.imgur.com/FvEp1S2.png",
+            "https://i.imgur.com/Zfe2f5j.png",
+            "https://i.imgur.com/utI1tJV.png",
+            "https://i.imgur.com/R6D228s.png",
+            "https://i.imgur.com/csBNi2L.png",
+            "https://i.imgur.com/kj21hwd.png",
+            "https://i.imgur.com/CZ8LKmA.png",
+            "https://i.imgur.com/04fCzHl.png",
+            "https://i.imgur.com/XfkbTrU.png",
+            "https://tvexplorer.live/project/branding/brands/tv-explorer/media/watson-w.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/chevron-down.svg",
+            "https://i.imgur.com/nGSsUd4.png",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/expand.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/heart.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/chevron-up.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/plus.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/minus.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/volume-high.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/trash.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/list.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/gear.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/circle-question.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/share-nodes.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/newspaper.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/football-ball.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/music.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/film.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/video.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/child.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/star.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/tree.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/globe.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/yin-yang.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/landmark.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/graduation-cap.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/palette.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/cart-shopping.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/house.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/briefcase.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/bolt.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/face-laugh.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/masks-theater.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/user-secret.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/eye.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/ghost.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/plane.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/spa.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/language.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/circle-xmark.svg",
+            "https://i.imgur.com/KRakHAq.png",
+            "https://i.imgur.com/Q4A6ci4.png",
+            "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
+            "https://image.xumo.com/v1/channels/channel/99951482/300x300.webp?type=color_onBlack",
+            "https://static.tildacdn.biz/tild6366-6336-4230-b562-656138633562/___TV-___188-76.webp",
+            "https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png",
+            "https://i.imgur.com/LOY0rtp.png",
+            "https://i.imgur.com/smQKa2G.png",
+            "https://i.imgur.com/FlG7npq.png",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/arrow-right.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg"
+          ],
+          "fonts": [
+            "https://tvexplorer.live/watson/engine/fonts/Inter/Inter.var.woff2",
+            "https://tvexplorer.live/watson/engine/fonts/Kurri/Kurri-Thin.ttf",
+            "https://tvexplorer.live/watson/engine/fonts/Kurri/Kurri-Regular.ttf",
+            "https://tvexplorer.live/watson/engine/fonts/Kurri/Kurri-Medium.ttf",
+            "https://tvexplorer.live/watson/engine/fonts/Kurri/Kurri-Bold.ttf",
+            "https://tvexplorer.live/watson/engine/fonts/Kurri/Kurri-Black.ttf",
+            "https://tvexplorer.live/watson/engine/fonts/Courier/CourierStd.otf",
+            "https://tvexplorer.live/watson/engine/fonts/Courier/CourierStd-Oblique.otf",
+            "https://tvexplorer.live/watson/engine/fonts/Courier/CourierStd-Bold.otf",
+            "https://tvexplorer.live/watson/engine/fonts/Courier/CourierStd-BoldOblique.otf",
+            "https://tvexplorer.live/watson/engine/fonts/Autography/Autography.otf",
+            "https://tvexplorer.live/project/fonts/TwemojiCountryFlags/TwemojiCountryFlags.woff2"
+          ],
+          "media": []
+        },
+        "images": [],
+        "canvases": []
+      }
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "screenshot": "screenshots\\original-390.png",
+      "signals": {
+        "href": "https://tvexplorer.live/",
+        "title": "TV Explorer",
+        "lang": "en-US",
+        "bodyTextChars": 0,
+        "scrollHeight": 900,
+        "viewport": {
+          "width": 390,
+          "height": 900
+        },
+        "h1": [],
+        "headings": [],
+        "metaDescription": "Watch over 10,000 free live TV channels from around the world, right in your browser. No signup, no apps, no tracking.",
+        "counts": {
+          "links": 0,
+          "images": 0,
+          "video": 0,
+          "canvas": 0,
+          "sections": 0,
+          "forms": 0,
+          "buttons": 0,
+          "inputs": 0,
+          "interactive": 0,
+          "scripts": 5,
+          "stylesheets": 0
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [
+          "https://tvexplorer.live/assets/main-BxV3gFc7.js",
+          "https://www.gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js",
+          "https://www.gstatic.com/eureka/clank/156/cast_sender.js",
+          "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-0953LQH06K",
+          "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1"
+        ],
+        "stylesheets": [],
+        "sections": [],
+        "cssVariables": [],
+        "rootVariables": [],
+        "palette": {
+          "body": {
+            "backgroundColor": "rgb(0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "borderColor": "rgb(0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "backgroundImage": ""
+          },
+          "header": null,
+          "nav": null,
+          "main": null,
+          "footer": null,
+          "buttons": []
+        },
+        "motion": {
+          "htmlScrollBehavior": "auto",
+          "scrollSnapRules": 0,
+          "smoothScrollRules": 0,
+          "stickyOrFixedCount": 0
+        },
+        "fonts": [
+          "Inter",
+          "Kurri",
+          "Kurri",
+          "Kurri",
+          "Kurri",
+          "Kurri",
+          "Courier",
+          "Courier",
+          "Courier",
+          "Courier",
+          "Autography",
+          "TwemojiCountryFlags"
+        ],
+        "fontFaces": [],
+        "resources": {
+          "images": [
+            "https://i.imgur.com/tTCuczU.png",
+            "https://i.imgur.com/300c1ZH.png",
+            "https://i.imgur.com/GET9Qut.png",
+            "https://i.imgur.com/nSSUHcg.png",
+            "https://files.catbox.moe/6rj9aw.jpg",
+            "https://i.imgur.com/slSUDNX.png",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%26flix_2025.svg/960px-%26flix_2025.svg.png",
+            "https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540",
+            "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/%26TV_Transparent_c5cc189b-8493-48d2-b07c-3fa4f92d754a.png",
+            "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",
+            "https://i.imgur.com/2xglh33.png",
+            "https://dtil.tmsimg.com/assets/s142495_ld_h15_aa.png?lock=720x540",
+            "https://i.imgur.com/SZtJfOG.png",
+            "https://i.imgur.com/bSXKdK5.png",
+            "https://i.imgur.com/dWA9y2J.png",
+            "https://i.imgur.com/GzI3RC4.png",
+            "https://i.imgur.com/kVREx1Q.png",
+            "https://i.imgur.com/mBYxWOg.png",
+            "https://i.imgur.com/VSTgXsh.png",
+            "https://i.imgur.com/Ymk6j5o.png",
+            "https://i.imgur.com/KvMuTzN.png",
+            "https://i.imgur.com/8WJUbSD.png",
+            "https://i.imgur.com/m0SuwMU.png",
+            "https://i.imgur.com/FvEp1S2.png",
+            "https://i.imgur.com/Zfe2f5j.png",
+            "https://i.imgur.com/utI1tJV.png",
+            "https://i.imgur.com/R6D228s.png",
+            "https://i.imgur.com/csBNi2L.png",
+            "https://i.imgur.com/kj21hwd.png",
+            "https://i.imgur.com/CZ8LKmA.png",
+            "https://i.imgur.com/04fCzHl.png",
+            "https://i.imgur.com/XfkbTrU.png",
+            "https://tvexplorer.live/project/branding/brands/tv-explorer/media/watson-w.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/chevron-down.svg",
+            "https://i.imgur.com/nGSsUd4.png",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/expand.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/heart.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/chevron-up.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/plus.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/minus.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/volume-high.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/trash.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/list.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/gear.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/circle-question.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/share-nodes.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/newspaper.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/football-ball.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/music.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/film.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/video.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/child.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/star.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/tree.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/globe.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/yin-yang.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/landmark.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/graduation-cap.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/palette.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/cart-shopping.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/house.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/briefcase.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/bolt.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/face-laugh.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/masks-theater.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/user-secret.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/eye.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/ghost.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/plane.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/spa.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/language.svg",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/circle-xmark.svg",
+            "https://i.imgur.com/KRakHAq.png",
+            "https://i.imgur.com/Q4A6ci4.png",
+            "https://image.xumo.com/v1/channels/channel/99951482/300x300.webp?type=color_onBlack",
+            "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
+            "https://static.tildacdn.biz/tild6366-6336-4230-b562-656138633562/___TV-___188-76.webp",
+            "https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png",
+            "https://i.imgur.com/LOY0rtp.png",
+            "https://i.imgur.com/smQKa2G.png",
+            "https://i.imgur.com/FlG7npq.png",
+            "https://tvexplorer.live/watson/engine/icons/svgs/solid/arrow-right.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg"
+          ],
+          "fonts": [
+            "https://tvexplorer.live/watson/engine/fonts/Inter/Inter.var.woff2",
+            "https://tvexplorer.live/watson/engine/fonts/Kurri/Kurri-Thin.ttf",
+            "https://tvexplorer.live/watson/engine/fonts/Kurri/Kurri-Regular.ttf",
+            "https://tvexplorer.live/watson/engine/fonts/Kurri/Kurri-Medium.ttf",
+            "https://tvexplorer.live/watson/engine/fonts/Kurri/Kurri-Bold.ttf",
+            "https://tvexplorer.live/watson/engine/fonts/Kurri/Kurri-Black.ttf",
+            "https://tvexplorer.live/watson/engine/fonts/Courier/CourierStd.otf",
+            "https://tvexplorer.live/watson/engine/fonts/Courier/CourierStd-Oblique.otf",
+            "https://tvexplorer.live/watson/engine/fonts/Courier/CourierStd-Bold.otf",
+            "https://tvexplorer.live/watson/engine/fonts/Courier/CourierStd-BoldOblique.otf",
+            "https://tvexplorer.live/watson/engine/fonts/Autography/Autography.otf",
+            "https://tvexplorer.live/project/fonts/TwemojiCountryFlags/TwemojiCountryFlags.woff2"
+          ],
+          "media": []
+        },
+        "images": [],
+        "canvases": []
+      }
+    }
+  ]
+}
